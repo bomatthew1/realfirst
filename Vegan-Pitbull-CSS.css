@@ -1,0 +1,333 @@
+				@media screen and (max-width: 1000000px) {
+			
+				body {
+				overflow-x: hidden;
+				overflow-y: auto;
+				background-image: url("https://rawgit.com/bomatthew1/LearningRepository/master/pakakaka.jpg");
+				background-size: 100% 100%;
+				background-repeat: no-repeat;
+				background-attachment: fixed;
+				}
+				
+				#the-content {
+				border: 5px dashed transparent;
+				border-radius: 25px;
+				margin: auto;
+				width: 60%;
+				}
+				
+				header {
+				background-image: url("https://rawgit.com/bomatthew1/LearningRepository/master/Metaheadareada.jpg");
+				border-radius: 25px;
+				background-size: 100% 100%;
+				width: 100%;
+				margin: auto;
+				}
+				
+				table {
+				margin: auto;
+				border: 3px solid transparent;
+				}
+				
+				#lap {
+				display: none;
+				}
+				
+				#dap {
+				display: none;
+				}
+				
+				#rap {
+				display: none;
+				}
+				
+				th {
+				padding: 10px;	
+				}
+				
+				th:hover {
+				background-color: #C9C9C9;
+				}
+				
+				a {
+				text-decoration: none;
+				}
+				
+				#body {
+				border: 5px dashed transparent;
+				position: relative;
+				border-radius: 25px;
+				}
+				
+				#introduction {
+				border: 5px solid transparent;
+				position: relative;
+				width: 98.6%;
+				padding: 5px;
+				border-radius: 25px;
+				margin: auto;
+				}
+				
+				h1, h2 {
+				text-align: center;
+				}
+				
+				p {
+				text-indent: 30px;
+				padding: 10px;
+				line-height: 20px;
+				}
+				
+				footer {
+				border: 5px dashed transparent;
+				position: relative;
+				border-radius: 25px;
+				text-align: center;
+				}
+				
+				ul {
+				text-align: center;
+				list-style: none;
+				}
+				
+				#later {
+				display: none;
+				}
+				
+				#now {
+				display: inline;
+				}
+				}
+				
+				@media screen and (max-width: 1500px) {
+				
+				header {
+				background-image: url("https://rawgit.com/bomatthew1/realfirst/master/1500px-Banner.jpg");
+				border-radius: 25px;
+				background-size: 100% 100%;
+				width: 100%;
+				margin: auto;
+				}
+				
+				#lap {
+				display: inline;
+				}
+				
+				#tap {
+				display: none;
+				}
+				
+				#dap {
+				display: none;
+				}
+				
+				#rap {
+				display: none;
+				}
+				
+				#now {
+				display: inline;
+				}
+				
+				#later {
+				display: none;
+				}
+				}
+				
+				@media screen and (max-width: 1000px) {
+				
+				body {
+				font-size: 12px;
+				}
+				
+				header {
+				background-image: url("https://rawgit.com/bomatthew1/realfirst/master/1000px-Banner.jpg");
+				border-radius: 25px;
+				background-size: 100% 100%;
+				width: 100%;
+				margin: auto;
+				}
+				
+				p {
+				text-indent: initial;
+				padding: 5px;
+				line-height: 20px;
+				}
+				
+				#now {
+				display: inline;
+				}
+				
+				#later {
+				display: none;
+				}
+				}
+				
+				@media screen and (max-width: 797px) {
+				
+				body {
+				background-image: none;
+				background-color: #F3FFBF;
+				}
+				
+				#the-content {
+				border: 5px dashed transparent;
+				border-radius: 25px;
+				margin: auto;
+				width: 100%;
+				}
+				
+				header {
+				background-image: url("https://rawgit.com/bomatthew1/realfirst/master/624px-Banner.jpg");
+				border-radius: 25px;
+				background-size: 100% 100%;
+				width: 100%;
+				margin: auto;
+				}
+				
+				#dap {
+				display: inline;
+				}
+				
+				#lap {
+				display: none;
+				}
+				
+				#tap {
+				display: none;
+				}
+				
+				#rap {
+				display: none;
+				}
+				
+				#introduction {
+				padding: initial;
+				}
+				
+				p {
+				text-indent: initial;
+				padding: 5px;
+				line-height: 20px;
+				}
+				
+				#now {
+				display: inline;
+				}
+				
+				#later {
+				display: none;
+				}
+				}
+				
+				@media screen and (max-width: 624px) {
+				
+				body {
+				background-color: #F3FFBF;
+				background-image: none;
+				}
+				
+				#the-content {
+				border: 5px dashed transparent;
+				border-radius: 25px;
+				margin: auto;
+				width: 100%;
+				}
+				
+				header {
+				background-image: url("https://rawgit.com/bomatthew1/realfirst/master/624px-Banner.jpg");
+				border-radius: 25px;
+				background-size: 100% 100%;
+				width: 100%;
+				margin: auto;
+				}
+				
+				#rap {
+				display: inline;
+				}
+				
+				#lap {
+				display: none;
+				}
+				
+				#tap {
+				display: none;
+				}
+				
+				#dap {
+				display: none;
+				}
+				
+				th {
+				padding: 5px;
+				}
+				
+				#introduction {
+				padding: initial;
+				}
+				
+				p {
+				text-indent: initial;
+				line-height: 20px;
+				font-size: 12px;
+				}
+				
+				#now {
+				display: inline;
+				}
+				
+				#later {
+				display: none;
+				}
+				}
+				
+				@media screen and (max-width: 475px) {
+				
+				body {
+				background-image: none;
+				background-color: #F3FFBF;
+				}
+				
+				#the-content {
+				border: 5px dashed transparent;
+				border-radius: 25px;
+				margin: auto;
+				width: 100%;
+				}
+				
+				header {
+				background-image: url("https://rawgit.com/bomatthew1/realfirst/master/Final-Banner.jpg");
+				border-radius: 25px;
+				background-size: 100% 100%;
+				width: 100%;
+				margin: auto;
+				}
+				
+				th {
+				padding: 5px;
+				}
+				
+				#introduction {
+				padding: initial;
+				}
+				
+				h1, h2 {
+				font-size: 16px;
+				}
+				
+				p, header {
+				font-size: 10px;
+				}
+				
+				#introduction {
+				padding: initial;
+				}
+				
+				#later {
+				display: inline;
+				}
+				
+				#now {
+				display: none;
+				}
+				}
